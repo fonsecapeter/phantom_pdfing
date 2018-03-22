@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Clean up generated PDFs
+set -e -o pipefail
+
+rm -rf ./out/

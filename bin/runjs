@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Generate a PDF with node.js
+set -e -o pipefail
+
+node save_page.js
