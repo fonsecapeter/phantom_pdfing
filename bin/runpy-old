@@ -2,4 +2,4 @@
 # Generate a PDF with python
 set -e -o pipefail
 
-venv/bin/python chrome.py
+venv/bin/python save_page.py
